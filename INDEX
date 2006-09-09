@@ -1,0 +1,6 @@
+hiv1raw		encoded Cy3 (green) absorption intensities for channel 1 for
+                a single block within a cDNA microarray experiment involving
+                HIV infection. 
+hiv2raw		encoded Cy5 (red) absorption intensities for channel 2 for
+                a single block within a cDNA microarray experiment involving
+                HIV infection.
